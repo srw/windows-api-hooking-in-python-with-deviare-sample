@@ -2,6 +2,7 @@ windows-api-hooking-in-python-with-deviare-sample
 =================================================
 
 Sample showing how to hook an application with Python and Nektra Deviare. Original article at: [Windows API Hooking in Python with Deviare](http://blog.nektra.com/main/2012/07/20/windows-api-ho…n-with-deviare/)
+The code was written by guillermoares and the article by srw
 
 
 This demo requires you to:
